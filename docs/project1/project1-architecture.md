@@ -1,7 +1,7 @@
 ---
 layout: default
 title: project1-architecture
-parent: Utilities
+parent: Project1
 ---
 
 # Architecture of Project 1
